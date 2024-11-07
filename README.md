@@ -95,8 +95,6 @@ git push origin feature-nueva-funcion
 
 Este proyecto está bajo la licencia MIT.
 
-Este `README.md` incluye todas las instrucciones para la instalación, arranque, scripts, tecnologías utilizadas y el proceso de contribución.
-
 ```
-
+Este `README.md` incluye todas las instrucciones para la instalación, arranque, scripts, tecnologías utilizadas y el proceso de contribución.
 ```
